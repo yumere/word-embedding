@@ -7,4 +7,8 @@
 
 ## Results
 ### NNLM
+Red is NNLM with GradientDescent Optimizer
+
+Blue is NNLM with Adam Optimizer
+
 ![](images/nnlm_results_by_optimizer.PNG)
